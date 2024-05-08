@@ -1,0 +1,10 @@
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\bin\Debug\15 puzzle.exe.config
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\bin\Debug\15 puzzle.exe
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\bin\Debug\15 puzzle.pdb
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\obj\Debug\15 puzzle.csprojAssemblyReference.cache
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\obj\Debug\_15_puzzle.Form1.resources
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\obj\Debug\_15_puzzle.Properties.Resources.resources
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\obj\Debug\15 puzzle.csproj.GenerateResource.cache
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\obj\Debug\15 puzzle.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\obj\Debug\15 puzzle.exe
+C:\Users\elev\source\repos\15 puzzle\15 puzzle\obj\Debug\15 puzzle.pdb
